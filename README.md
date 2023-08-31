@@ -6,4 +6,6 @@ Copyright(©) by Pierian Data Inc.
 Get it now for 95% off with the link:
 https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
 
+## Above is the link to get 95% off
+
 Thanks!
